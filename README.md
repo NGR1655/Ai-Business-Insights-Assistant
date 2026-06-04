@@ -256,12 +256,12 @@ Once you have uploaded a dataset, start with these:
 
 ## 👤 Built By
 
-**GReddy** — Data Analyst with Generative AI focus
+**Greeshma Reddy** — Data Analyst with Generative AI focus
 📍 Hyderabad, India
 
 Targeting roles in Data Analytics, Business Analytics, AI Business Insights, and Product Analytics — where the ability to deliver faster, clearer insights using AI is the differentiating skill.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/greeshmareddyn)
 [![GitHub](https://img.shields.io/badge/GitHub-NGR1655-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/NGR1655)
 
 ---
