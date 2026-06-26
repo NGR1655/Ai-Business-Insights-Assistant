@@ -184,6 +184,22 @@ The AI remembers the last 6 turns of your conversation, so follow-up questions l
 
 ---
 
+## 📸 Screenshots
+
+### Home Page
+![Home](Screenshot%202026-06-27%20041706.png)
+
+### Upload Data
+![Upload](Screenshot%202026-06-27%20042010.png)
+
+### Analytics
+![Analytics](Screenshot%202026-06-27%20042036.png)
+
+## 🎥 Demo
+
+A 1 minute 10 second demo video is available in this repository:
+- ai business insights.mp4
+
 ## 🛠️ Technology Behind It
 
 | Layer | Technology | Why it was chosen |
