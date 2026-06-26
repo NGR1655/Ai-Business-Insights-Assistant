@@ -199,6 +199,9 @@ The AI remembers the last 6 turns of your conversation, so follow-up questions l
 
 A 1 minute 10 second demo video is available in this repository:
 - ai business insights.mp4
+- ## 🎥 Demo Video
+
+[Watch the Demo Video](https://github.com/NGR1655/AI-Business-Insights-Assistant/blob/main/ai%20business%20insights.mp4)
 
 ## 🛠️ Technology Behind It
 
