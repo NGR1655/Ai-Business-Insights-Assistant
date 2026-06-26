@@ -201,8 +201,7 @@ A 1 minute 10 second demo video is available in this repository:
 - ai business insights.mp4
 - ## 🎥 Demo Video
 
-[Watch the Demo Video](https://github.com/NGR1655/AI-Business-Insights-Assistant/blob/main/ai%20business%20insights.mp4)
-
+[Watch the Demo Video](https://github.com/NGR1655/Ai-Business-Insights-Assistant/blob/main/ai%20business%20insights%20.mp4)
 ## 🛠️ Technology Behind It
 
 | Layer | Technology | Why it was chosen |
